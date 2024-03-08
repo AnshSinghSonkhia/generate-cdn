@@ -1,0 +1,30 @@
+{
+  "name": "generate-cdn",
+  "version": "1.0.0",
+  "description": "Generate CDN links from GitHub & unpkg (open-source) URLs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshSinghSonkhia/generate-cdn.git"
+  },
+  "keywords": [
+    "jsdelivr",
+    "get-jsdelivr",
+    "get-cdn",
+    "get-cdn-link",
+    "cdn",
+    "cdn-link",
+    "github-cdn",
+    "unpkg-cdn",
+    "unpkg",
+    "github",
+    "generate-cdn",
+    "generatecdn",
+    "cdn-generator"
+  ],
+  "author": "Ansh Singh Sonkhia",
+  "license": "Apache-2.0"
+}
